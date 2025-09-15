@@ -1,7 +1,7 @@
 const Home = () => {
     return(
         <div className="page">
-            <a className="nav" href="/new-face/image">
+            <a className="nav" href="/new-face">
                 Upload your photo to the database.
             </a>
 
